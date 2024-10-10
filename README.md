@@ -1,1 +1,6 @@
-# mockup-website
+![Screenshot 2024-10-10 151601](https://github.com/user-attachments/assets/3442b878-6721-4783-b8bf-4d0a18059f58)
+![Screenshot 2024-10-10 151618](https://github.com/user-attachments/assets/46e838c0-f8c2-4c16-ae40-83e80d4ddc5c)
+![Screenshot 2024-10-10 151635](https://github.com/user-attachments/assets/99387c52-b89e-459b-be23-fa16528cfae0)
+![Screenshot 2024-10-10 151651](https://github.com/user-attachments/assets/409287a7-4172-42e3-a471-f1c14536cae2)
+![Screenshot 2024-10-10 151710](https://github.com/user-attachments/assets/a1515975-227c-43e5-9a9c-4152fca625f8)
+![Screenshot 2024-10-10 151724](https://github.com/user-attachments/assets/56af2dbe-55ec-428d-949f-1b7b7515ea82)
